@@ -4,7 +4,7 @@
 ## Sorting
 🔗 [Bubble Sort](https://github.com/xirxo/BubbleSort/ 'Bubble Sort')\
 🔗 Quick Sort\
-🔗 Heap Sort
+🔗 [Heap Sort](https://github.com/xirxo/HeapSort/ 'Heap Sort')
 
 ## Searching
 🔗 Ternary Serch\
