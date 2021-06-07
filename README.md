@@ -11,4 +11,4 @@
 🔗 Binary Search
 
 ## Info
-Add an [issue](https://github.com/xirxo/AlgoJS/issues) 'Issue' if you want a certain algorithm to be added
+Add an [issue](https://github.com/xirxo/AlgoJS/issues 'Issue') if you want a certain algorithm to be added
