@@ -9,3 +9,6 @@
 ## Searching
 🔗 Ternary Serch\
 🔗 Binary Search
+
+## Info
+Add an issue if you want a certain algorithm to be added
